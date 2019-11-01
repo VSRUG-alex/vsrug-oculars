@@ -1,9 +1,12 @@
-# vsrug-oculars
+=============
+vsrug-oculars
+=============
 
-VSRUG ocular collection for use in Stellarium
+VSRUG ocular collection for use in Stellarium.
 
-Copy this file to your local Stellarium config directory (it contains `config.ini`) under `modules/Oculars/`
-Unfortunately, there is currently no way to cleanly merge ocular data.
+Copy this file as `ocular.ini` to your local Stellarium config directory (it contains `config.ini`) under `modules/Oculars/`.
+
+Unfortunately, there is currently no way to cleanly merge ocular data from several organisations/places.
 
 - Windows users can best rename the file before/after use, in order to keep whatever they created locally
 - Linux users are lucky: they can use symlinks.
