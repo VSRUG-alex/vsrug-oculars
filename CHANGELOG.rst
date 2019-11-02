@@ -1,6 +1,7 @@
 current
 -------
 
+- opmerkingen Hugo chip sizes
 - just copy-pasta of existing Stellarium file
 
 TODO
