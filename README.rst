@@ -22,4 +22,5 @@ Some images
 .. image:: img/stellarium-085-1.png
 .. image:: img/stellarium-085.png
 .. image:: img/stellarium-086.png
+.. image:: img/stellarium-087.png
 
