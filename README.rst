@@ -19,5 +19,6 @@ Some images
 .. image:: img/stellarium-081.png
 .. image:: img/stellarium-082.png
 .. image:: img/stellarium-083.png
+.. image:: img/stellarium-085-1.png
 .. image:: img/stellarium-085.png
 
