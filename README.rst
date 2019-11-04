@@ -17,12 +17,10 @@ Some images
 .. image:: img/stellarium-087.png
 .. image:: img/stellarium-094.png
 .. image:: img/stellarium-098.png
-.. image:: img/stellarium-100.png
 .. image:: img/stellarium-103.png
 .. image:: img/stellarium-104.png
 .. image:: img/stellarium-105.png
 .. image:: img/stellarium-106.png
-.. image:: img/stellarium-109.png
 .. image:: img/stellarium-109.png
 .. image:: img/stellarium-110.png
 .. image:: img/stellarium-111.png
