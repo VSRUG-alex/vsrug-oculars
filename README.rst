@@ -27,4 +27,6 @@ Some images
 .. image:: img/stellarium-112.png
 .. image:: img/stellarium-114.png
 .. image:: img/stellarium-115.png
+.. image:: img/stellarium-116.png
+.. image:: img/stellarium-117.png
 
