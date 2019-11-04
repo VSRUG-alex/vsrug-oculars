@@ -14,13 +14,19 @@ Unfortunately, there is currently no way to cleanly merge ocular data from sever
 Some images
 -----------
 
-.. image:: img/stellarium-079.png
-.. image:: img/stellarium-080.png
-.. image:: img/stellarium-081.png
-.. image:: img/stellarium-082.png
-.. image:: img/stellarium-083.png
-.. image:: img/stellarium-085-1.png
-.. image:: img/stellarium-085.png
-.. image:: img/stellarium-086.png
 .. image:: img/stellarium-087.png
+.. image:: img/stellarium-094.png
+.. image:: img/stellarium-098.png
+.. image:: img/stellarium-100.png
+.. image:: img/stellarium-103.png
+.. image:: img/stellarium-104.png
+.. image:: img/stellarium-105.png
+.. image:: img/stellarium-106.png
+.. image:: img/stellarium-109.png
+.. image:: img/stellarium-109.png
+.. image:: img/stellarium-110.png
+.. image:: img/stellarium-111.png
+.. image:: img/stellarium-112.png
+.. image:: img/stellarium-114.png
+.. image:: img/stellarium-115.png
 
