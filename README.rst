@@ -12,21 +12,52 @@ Unfortunately, there is currently no way to cleanly merge ocular data from sever
 - Linux users are lucky: they can use symlinks.
 
 Some images
------------
+===========
 
-.. image:: img/stellarium-087.png
+Meade LX-200 ACF
+----------------
+
+.. image:: img/stellarium-105.png
+        ZWO
+
+.. image:: img/stellarium-106.png
+        Infinity
+
+.. image:: img/stellarium-114.png
+        vis
+
+"refractor KK"
+--------------
+
+.. image:: img/stellarium-103.png
+        ZWO
+
+.. image:: img/stellarium-104.png
+        Infinity
+
+.. image:: img/stellarium-115.png
+        vis
+        
+.. image:: img/stellarium-118.png
+        Celestron        
+Varia
+-----
+
 .. image:: img/stellarium-094.png
 .. image:: img/stellarium-098.png
-.. image:: img/stellarium-103.png
-.. image:: img/stellarium-104.png
-.. image:: img/stellarium-105.png
-.. image:: img/stellarium-106.png
+        Test van Ivo: M13, M27
+
 .. image:: img/stellarium-109.png
 .. image:: img/stellarium-110.png
 .. image:: img/stellarium-111.png
 .. image:: img/stellarium-112.png
-.. image:: img/stellarium-114.png
-.. image:: img/stellarium-115.png
+        (Maan)
+
+.. image:: img/stellarium-087.png
+        VSRUG landscape (https://github.com/axd1967/vsrug-ls-gr)
+
+ Varia
+ 
 .. image:: img/stellarium-116.png
 .. image:: img/stellarium-117.png
 
