@@ -2,6 +2,8 @@
 vsrug-oculars
 =============
 
+.. contents:: 
+
 VSRUG ocular plugin collection for use in Stellarium.
 
 Copy this file as `ocular.ini` to your local Stellarium config directory (it contains `config.ini`) under `modules/Oculars/`.
@@ -18,43 +20,44 @@ Meade LX-200 ACF
 ----------------
 
 .. image:: img/stellarium-105.png
-        ZWO
+ZWO
 
 .. image:: img/stellarium-106.png
-        Infinity
+Infinity
 
 .. image:: img/stellarium-114.png
-        vis
+vis
 
 "refractor KK"
 --------------
 
 .. image:: img/stellarium-103.png
-        ZWO
+ZWO
 
 .. image:: img/stellarium-104.png
-        Infinity
+Infinity
 
 .. image:: img/stellarium-115.png
-        vis
+vis
         
 .. image:: img/stellarium-118.png
-        Celestron        
+Celestron        
+
 Varia
 -----
 
 .. image:: img/stellarium-094.png
 .. image:: img/stellarium-098.png
-        Test van Ivo: M13, M27
+Test van Ivo: M13, M27
 
 .. image:: img/stellarium-109.png
 .. image:: img/stellarium-110.png
 .. image:: img/stellarium-111.png
 .. image:: img/stellarium-112.png
-        (Maan)
+(Maan)
 
 .. image:: img/stellarium-087.png
-        VSRUG landscape (https://github.com/axd1967/vsrug-ls-gr)
+VSRUG landscape (https://github.com/axd1967/vsrug-ls-gr)
 
  Varia
  
