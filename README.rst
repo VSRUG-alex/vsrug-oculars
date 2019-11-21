@@ -56,11 +56,12 @@ Test van Ivo: M13, M27
 .. image:: img/stellarium-112.png
 (Maan)
 
-.. image:: img/stellarium-087.png
-VSRUG landscape (https://github.com/axd1967/vsrug-ls-gr)
-
  Varia
  
 .. image:: img/stellarium-116.png
 .. image:: img/stellarium-117.png
+
+.. image:: img/stellarium-087.png
+VSRUG landscape (https://github.com/axd1967/vsrug-ls-gr)
+
 

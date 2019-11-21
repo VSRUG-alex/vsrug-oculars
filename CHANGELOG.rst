@@ -1,13 +1,19 @@
 current
 -------
 
+- nieuwe inputs
 - Celestron
 - betere benaderingen van de CCD FOV
 - opmerkingen Hugo chip sizes
 - just copy-pasta of existing Stellarium file
 
-TODO
+BUSY
 ----
 
 - catalog of VSRUG telescopes + CCD sensors
+
+TODO
+----
+
+- tests/validation (compare with the real stuff)
 
