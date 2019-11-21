@@ -1,6 +1,7 @@
 current
 -------
 
+- aangepast naar v/0.19.2
 - nieuwe inputs
 - Celestron
 - betere benaderingen van de CCD FOV
