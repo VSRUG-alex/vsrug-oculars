@@ -2,6 +2,7 @@ current
 -------
 
 - aangepast naar v/0.19.2
+- alle originele oculars terug toegevoegd
 - nieuwe inputs
 - Celestron
 - betere benaderingen van de CCD FOV
