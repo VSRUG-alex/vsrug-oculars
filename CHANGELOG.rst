@@ -1,6 +1,8 @@
 current
 -------
 
+- live beeld ZWO130
+- '?' voor ontbrekende data
 - aangepast naar v/0.19.2
 - alle originele oculars terug toegevoegd
 - nieuwe inputs
