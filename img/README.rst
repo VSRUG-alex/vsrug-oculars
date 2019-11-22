@@ -12,9 +12,6 @@ Meade LX-200 ACF
 .. image:: stellarium-105.png
 ZWO
 
-.. image:: zwo130.png
-ZWO 130 Mercury 2019 transit
-
 .. image:: stellarium-106.png
 Infinity
 
@@ -26,6 +23,9 @@ vis
 
 .. image:: stellarium-103.png
 ZWO
+
+.. image:: zwo130.png
+ZWO 130 Mercury 2019 transit (https://youtu.be/NsHJMcvNs0c?t=5715)
 
 .. image:: stellarium-104.png
 Infinity
