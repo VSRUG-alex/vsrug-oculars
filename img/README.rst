@@ -1,8 +1,10 @@
 =======
-gallery
+Gallery
 =======
 
 .. contents:: 
+
+These images are placeholders, as ocular data is not precise/confirmed yet.
 
 Meade LX-200 ACF
 ----------------
