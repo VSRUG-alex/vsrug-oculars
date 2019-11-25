@@ -1,6 +1,7 @@
-current
--------
+2019-11-25: v0.1
+----------------
 
+- Ivo's 66/400 met testbeeld zon
 - live beeld ZWO130
 - '?' voor ontbrekende data
 - aangepast naar v/0.19.2
@@ -9,7 +10,6 @@ current
 - Celestron
 - betere benaderingen van de CCD FOV
 - opmerkingen Hugo chip sizes
-- just copy-pasta of existing Stellarium file
 
 BUSY
 ----

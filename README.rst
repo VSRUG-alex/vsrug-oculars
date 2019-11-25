@@ -7,7 +7,7 @@ vsrug-oculars
 VSRUG ocular plugin collection for use in Stellarium.
 
 .. FIXME : link to gallery. GH does not render the linking 
-See `Gallery <https://github.com/axd1967/vsrug-oculars/blob/master/img/README.rst>`_
+See `Gallery <https://github.com/axd1967/vsrug-oculars/blob/master/img/README.rst>`_.
 
 Copy this file as `ocular.ini` to your local Stellarium config directory (it contains `config.ini`) under `modules/Oculars/`.
 

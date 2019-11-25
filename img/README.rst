@@ -4,7 +4,20 @@ Gallery
 
 .. contents:: 
 
-These images are placeholders, as ocular data is not precise/confirmed yet.
+These images are mostly placeholders, as ocular data is not precise/confirmed yet.
+
+Tested
+------
+
+Ivo's "66/400"
+++++++++++++++
+
+.. image:: selectie-10-bewerkt.png
+Image (2019)
+
+.. image:: stellarium-137.png
+Stellarium 0.19.2
+
 
 Meade LX-200 ACF
 ----------------
