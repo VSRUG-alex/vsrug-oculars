@@ -19,8 +19,8 @@ Image (2019)
 Stellarium 0.19.2
 
 
-Meade LX-200 ACF
-----------------
+Meade LX-200 ACF?
+-----------------
 
 .. image:: stellarium-105.png
 ZWO
@@ -31,23 +31,26 @@ Infinity
 .. image:: stellarium-114.png
 vis
 
-"refractor KK"
---------------
-
-.. image:: stellarium-103.png
-ZWO
+"refractor AST?"
+----------------
 
 .. image:: zwo130.png
 ZWO 130 Mercury 2019 transit (https://youtu.be/NsHJMcvNs0c?t=5715)
 
+.. image:: stellarium-ast.png
+ZWO 130?
+
+.. image:: stellarium-103.png
+ZWO
+
 .. image:: stellarium-104.png
-Infinity
+ATIK Infinity?
 
 .. image:: stellarium-115.png
-vis
+vis?
         
 .. image:: stellarium-118.png
-Celestron        
+Celestron?
 
 Varia
 -----
