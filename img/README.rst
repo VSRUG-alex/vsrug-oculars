@@ -4,7 +4,7 @@ Gallery
 
 .. contents:: 
 
-These images are mostly placeholders, as ocular data is not precise/confirmed yet.
+.. warning:: ocular data is not precise/confirmed yet.
 
 Tested
 ------
@@ -18,6 +18,11 @@ Image (2019)
 .. image:: stellarium-137.png
 Stellarium 0.19.2
 
+.. image:: ivo-1944-1944-max.png
+Orion / Trapezium M42 1944x1944
+
+.. image:: stellarium-013-ivo-trap.png
+Stellarium 0.19.3
 
 Meade LX-200 ACF?
 -----------------

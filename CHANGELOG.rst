@@ -1,3 +1,9 @@
+2019-12-28: v0.2
+----------------
+
+- Ivo's 66/400 Trapezium M42 (settings twijfelachtig)
+- AST
+
 2019-11-25: v0.1
 ----------------
 
