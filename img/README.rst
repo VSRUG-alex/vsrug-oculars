@@ -36,7 +36,7 @@ Infinity
 .. image:: stellarium-114.png
 vis
 
-"refractor AST?"
+"refractor AST"?
 ----------------
 
 .. image:: zwo130.png
@@ -50,6 +50,9 @@ ZWO
 
 .. image:: stellarium-104.png
 ATIK Infinity?
+
+.. image:: AST-moon.png
+ATIK Infinity / Moon?
 
 .. image:: stellarium-115.png
 vis?
