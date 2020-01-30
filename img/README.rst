@@ -24,6 +24,19 @@ Orion / Trapezium M42 1944x1944
 .. image:: stellarium-013-ivo-trap.png
 Stellarium 0.19.3
 
+
+LX200/ATIK
+++++++++++
+
+.. image:: stellarium-m42.png
+Stellarium 0.19.3
+
+.. image:: alex-m42b.png
+M42
+
+.. image:: alex-m42d.png
+M42
+
 Meade LX-200 ACF?
 -----------------
 
