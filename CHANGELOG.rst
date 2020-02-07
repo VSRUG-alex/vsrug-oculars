@@ -1,6 +1,7 @@
 master
 ------
 
+- Alex C/2017 T2 Pan-STARRS
 - Alex M42/LX200/ATIK
 
 2019-12-28: v0.2

@@ -22,11 +22,11 @@ Stellarium 0.19.2
 Orion / Trapezium M42 1944x1944
 
 .. image:: stellarium-013-ivo-trap.png
-Stellarium 0.19.3
+Stellarium 0.19.3 is conservative in image extents
 
 
-LX200/ATIK
-++++++++++
+Meade LX200/ATIK
+++++++++++++++++
 
 .. image:: stellarium-m42.png
 Stellarium 0.19.3
@@ -36,6 +36,12 @@ M42
 
 .. image:: alex-m42d.png
 M42
+
+.. image:: stellarium-033-t2.png
+Stellarium 0.19.3
+
+.. image:: alex-t2.png
+C/2017 T2 Pan-STARRS
 
 Meade LX-200 ACF?
 -----------------
